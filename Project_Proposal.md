@@ -8,12 +8,44 @@
 
 # Project Description/Outline
 ### This project will take data from the Rotten Tomatoes website to determine the following:
-> Which actor would be the best fit for a particualr role based on ratings and genre 
+1. Genre Trends:
+    >> ROI per genre 
 
-> What should my budget be for the desired genre
+    >> Gross profit per genre 
 
-> What studio should I pitch my movie to
+    >> Budget per genre 
 
+    >> Ratings per genre 
+
+    >> Top ten ROI by genre vs Top ten gross by genre 
+
+2. Actor
+    >> ROI per actor 
+
+    >> Gross profit per actor
+
+    >> Budget per actor 
+
+    >> Facebook likes per actor 1
+
+    >> Facebook likes per actor 2
+
+    >> Ratings per actor
+
+    >> Top ten ROI by actor vs Top ten gross by actor 
+
+3. Director
+    >> ROI per director 
+
+    >> Gross per director 
+
+    >> Budget per director
+
+    >> Facebook likes per director 
+
+    >> Ratings per director
+
+    >> Top ten ROI by director vs Top ten gross by director 
 
 # Research Questions to Answer
 ### 1. I want to make a Sci-Fi film, who should I cast as the lead to get best ratings? 
@@ -21,12 +53,14 @@
 ### 3. What studio should I have produce my movie? 
 
 # Dataset to be used 
-> Rotten Tomatoes 
+> IMDB Dataset  
 
 # Libraries to be used 
 > Wikipedia Library 
 
 # Rough breakdown of tasks
->Ingrid: Create panel object to give a reccomendation for the question: #1 
->Bowie: Create panel object to give a reccomendation for the question: #2
->Kaleb: Create panel object to give a reccomendation for the question: #3
+>Ingrid: Create panel object to give a reccomendation for question: #1 
+
+>Bowie: Create panel object to give a reccomendation for question: #2
+
+>Kaleb: Create panel object to give a reccomendation for question: #3
