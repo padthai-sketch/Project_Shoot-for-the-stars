@@ -28,4 +28,3 @@
 - Which director's movies have the highest average ROI? 
 - Which director's movies have the highest average gross profit? 
 - Which director's movies have the highest average budget? 
-- Which director's movies have the highest average IMDB ratings?
