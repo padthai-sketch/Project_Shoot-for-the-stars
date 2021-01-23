@@ -13,7 +13,7 @@
 
 - Which genre has the highest average ROI?
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Genre.png
+![Genre](https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Genre.png)
 
 https://github.com/padthai-sketch/Project-1/blob/main/Images/Top%20Ten%20ROI%20-%20Genre.png
 
