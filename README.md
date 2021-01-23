@@ -13,48 +13,47 @@
 
 - Which genre has the highest average ROI?
 
-![Genre](https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Genre.png)
+![Genre_ROI](https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Genre.png)
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/Top%20Ten%20ROI%20-%20Genre.png
+![Genre_ROI10]https://github.com/padthai-sketch/Project-1/blob/main/Images/Top%20Ten%20ROI%20-%20Genre.png
 
  - Which genre has the highest average gross profit? 
  - Which genre has the highest average budget? 
 
- https://github.com/padthai-sketch/Project-1/blob/main/Images/Gross%20Profit%20%26%20Budget%20-%20Genre.png
+ ![Genre_P&B]https://github.com/padthai-sketch/Project-1/blob/main/Images/Gross%20Profit%20%26%20Budget%20-%20Genre.png
 
  - Which genre has the highest average IMDB ratings?
 
- https://github.com/padthai-sketch/Project-1/blob/main/Images/IMDB%20Rating%20-%20Genre.png 
+ ![Genre_Ratings]https://github.com/padthai-sketch/Project-1/blob/main/Images/IMDB%20Rating%20-%20Genre.png 
 
 > Actor Trends
 
 - Which actor's movies have the highest average ROI?
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Actor.png
+![Actor_ROI]https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Actor.png
 
 - Which actor's movies have the highest average gross profit?
 - Which actor's movies have the highest average budget? 
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/Gross%20Profit%20%26%20Budget%20-%20Actor.png
-
+![Actor_P&B]https://github.com/padthai-sketch/Project-1/blob/main/Images/Gross%20Profit%20%26%20Budget%20-%20Actor.png
 
 - Which actor's movies have the highest average IMDB ratings?
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/IMDB%20Rating%20-%20Actor.png
+![Actor_Ratings]https://github.com/padthai-sketch/Project-1/blob/main/Images/IMDB%20Rating%20-%20Actor.png
 
 > Director Trends 
 
 - Which director's movies have the highest average ROI? 
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Director%202.png
+![Director_ROI]https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Director%202.png
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Director.png
+![Director_ROI2]https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Director.png
 
 - Which director's movies have the highest average gross profit? 
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/Gross%20Profit%20-%20Director.png
+![Director_Profit]https://github.com/padthai-sketch/Project-1/blob/main/Images/Gross%20Profit%20-%20Director.png
 
 - Which director's movies have the highest average budget?
 
-https://github.com/padthai-sketch/Project-1/blob/main/Images/Budget%20-%20Director%20.png
+![Director_Budget]https://github.com/padthai-sketch/Project-1/blob/main/Images/Budget%20-%20Director%20.png
 
