@@ -17,8 +17,7 @@
 
 ![Genre_ROI10](https://github.com/padthai-sketch/Project-1/blob/main/Images/Top%20Ten%20ROI%20-%20Genre.png)
 
- - Which genre has the highest average gross profit? 
- - Which genre has the highest average budget? 
+ - Which genre has the highest average budget and average gross profit? 
 
  ![Genre_P&B](https://github.com/padthai-sketch/Project-1/blob/main/Images/Gross%20Profit%20%26%20Budget%20-%20Genre.png)
 
@@ -32,8 +31,7 @@
 
 ![Actor_ROI](https://github.com/padthai-sketch/Project-1/blob/main/Images/ROI%20-%20Actor.png)
 
-- Which actor's movies have the highest average gross profit?
-- Which actor's movies have the highest average budget? 
+- Which actor's movies have the highest average budget and average gross profit? 
 
 ![Actor_P&B](https://github.com/padthai-sketch/Project-1/blob/main/Images/Gross%20Profit%20%26%20Budget%20-%20Actor.png)
 
