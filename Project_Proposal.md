@@ -47,11 +47,6 @@
 
     >> Top ten ROI by director vs Top ten gross by director 
 
-# Research Questions to Answer
-### 1. I want to make a Sci-Fi film, who should I cast as the lead to get best ratings? 
-### 2. What should the budget for my film be? 
-### 3. What studio should I have produce my movie? 
-
 # Dataset to be used 
 > IMDB Dataset  
 
